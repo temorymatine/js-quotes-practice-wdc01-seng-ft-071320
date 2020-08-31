@@ -53,16 +53,6 @@
     {
       "quote": "n",
       "author": "ace",
-      "id": 26
-    },
-    {
-      "quote": "n",
-      "author": "ace",
-      "id": 27
-    },
-    {
-      "quote": "n",
-      "author": "ace",
       "id": 28
     },
     {
@@ -74,11 +64,6 @@
       "quote": "n",
       "author": "ace",
       "id": 30
-    },
-    {
-      "quote": "n",
-      "author": "ace",
-      "id": 31
     },
     {
       "quote": "n",
@@ -191,5 +176,149 @@
       "id": 52
     }
   ],
-  "likes": []
+  "likes": [
+    {
+      "quoteID": 5,
+      "id": 1
+    },
+    {
+      "quoteId": 9,
+      "id": 2
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-08-31T20:29:37.433Z",
+      "id": 3
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-08-31T20:29:58.018Z",
+      "id": 4
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:33:42.438Z",
+      "id": 5
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:34:01.134Z",
+      "id": 6
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:34:20.782Z",
+      "id": 7
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:36:14.152Z",
+      "id": 8
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:37:03.801Z",
+      "id": 9
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:38:24.539Z",
+      "id": 10
+    },
+    {
+      "quoteId": 18,
+      "createdAt": "2020-08-31T20:39:21.645Z",
+      "id": 11
+    },
+    {
+      "quoteId": 18,
+      "createdAt": "2020-08-31T20:39:22.468Z",
+      "id": 12
+    },
+    {
+      "quoteId": 18,
+      "createdAt": "2020-08-31T20:39:23.372Z",
+      "id": 13
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-08-31T20:39:51.141Z",
+      "id": 14
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-08-31T20:41:39.495Z",
+      "id": 15
+    },
+    {
+      "quoteId": 18,
+      "createdAt": "2020-08-31T20:42:43.424Z",
+      "id": 16
+    },
+    {
+      "quoteId": 18,
+      "createdAt": "2020-08-31T20:42:44.223Z",
+      "id": 17
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-08-31T20:43:36.649Z",
+      "id": 18
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-08-31T20:43:37.216Z",
+      "id": 19
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-08-31T20:43:37.696Z",
+      "id": 20
+    },
+    {
+      "quoteId": 19,
+      "createdAt": "2020-08-31T20:43:41.864Z",
+      "id": 21
+    },
+    {
+      "quoteId": 19,
+      "createdAt": "2020-08-31T20:43:42.137Z",
+      "id": 22
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:09.083Z",
+      "id": 23
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:09.490Z",
+      "id": 24
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:09.674Z",
+      "id": 25
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:09.886Z",
+      "id": 26
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:10.043Z",
+      "id": 27
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:10.219Z",
+      "id": 28
+    },
+    {
+      "quoteId": 21,
+      "createdAt": "2020-08-31T20:45:10.700Z",
+      "id": 29
+    }
+  ]
 }

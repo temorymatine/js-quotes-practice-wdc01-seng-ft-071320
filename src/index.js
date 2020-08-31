@@ -42,8 +42,10 @@ const ul = document.getElementById("quote-list")
 
     if (!Array.isArray(quote.likes) || !quote.likes.length){
           span.innerText = 0
+          span.id = quote.id
     } else {
-    span.innerText = quote.likes.length
+        span.innerText = quote.likes.length
+        span.id = quote.id
     }
 
     likeBtn.innerText = "Likes: "
@@ -78,21 +80,24 @@ const ul = document.getElementById("quote-list")
 
         let configObj = {method: 'POST', 
             headers: {"Content-Type": "application/json"},
-            body: JSON.stringify({quoteID: quote.id, likes:   })
+            body: JSON.stringify({
+                quoteId: quote.id,
+                createdAt: new Date()})
         }
 
+        fetch("http://localhost:3000/likes", configObj)
+        .then(res => res.json())
+        .then(newLike => {
+            let id = newLike.quoteId
+            let quoteSpan = document.getElementById(`${id}`)
+            let num = parseInt(quoteSpan.innerText)
+            //debugger
+            quoteSpan.innerText = num += 1
+        })
 
-
-
-    fetch(`http://localhost:3000/quotes/${quote.id}/?_embed=likes/`, {
-        method: "POST" })
-    .then(()=> li.())
-    
-
-    })
     
    
-}
+})
 
 
 
@@ -114,12 +119,15 @@ form.addEventListener("submit",function(e){
 
     const url = "http://localhost:3000/quotes?_embed=likes"
   
-    fetch(url,configObj).then(resp => resp.json()).then(quote => addQuote(quote))
+    fetch(url,configObj)
+    .then(resp => resp.json())
+    .then(quote => addQuote(quote))
 
     
     // addQuote(quote)
 
 })
+}
 
 
 
