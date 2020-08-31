@@ -1,44 +1,9 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
       "id": 5,
       "quote": "We had better not enjoy the moment, but create the moment.",
       "author": "Ai Weiwei"
-    },
-    {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
-    },
-    {
-      "id": 7,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
     },
     {
       "id": 9,
@@ -46,26 +11,185 @@
       "author": "James Baldwin"
     },
     {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
+      "quote": "\"Whatagat\"",
+      "author": "yoyo ma",
+      "id": 18
     },
     {
-      "id": 11,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
+      "quote": "\"Whatagat\"",
+      "author": "yoyo ma",
+      "id": 19
+    },
+    {
+      "quote": "\"d\"",
+      "author": "ace",
+      "id": 20
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 21
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 22
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 23
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 24
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 25
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 26
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 27
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 28
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 29
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 30
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 31
+    },
+    {
+      "quote": "n",
+      "author": "ace",
+      "id": 32
+    },
+    {
+      "quote": "\"to be or not to be\"",
+      "author": "christina",
+      "id": 33
+    },
+    {
+      "quote": "\"love or lore\"",
+      "author": "moeny tea",
+      "likes": [],
+      "id": 34
+    },
+    {
+      "quote": "yoyo",
+      "author": "pleabo",
+      "likes": "[]",
+      "id": 35
+    },
+    {
+      "quote": "t",
+      "author": "ttt",
+      "likes": [],
+      "id": 36
+    },
+    {
+      "quote": "heye",
+      "author": "heyeee",
+      "likes": [],
+      "id": 37
+    },
+    {
+      "quote": "fff",
+      "author": "sds",
+      "likes": [],
+      "id": 38
+    },
+    {
+      "quote": "lo",
+      "author": "las",
+      "id": 39
+    },
+    {
+      "quote": "d",
+      "author": "d",
+      "id": 40
+    },
+    {
+      "quote": "d",
+      "author": "d",
+      "id": 41
+    },
+    {
+      "quote": "m",
+      "author": "moeny tea",
+      "id": 42
+    },
+    {
+      "quote": "m",
+      "author": "m",
+      "id": 43
+    },
+    {
+      "quote": "m",
+      "author": "m",
+      "id": 44
+    },
+    {
+      "quote": "d",
+      "author": "ddd",
+      "id": 45
+    },
+    {
+      "quote": "ada",
+      "author": "oddie",
+      "id": 46
+    },
+    {
+      "quote": "dd",
+      "author": "d",
+      "id": 47
+    },
+    {
+      "quote": "m",
+      "author": "mm",
+      "id": 48
+    },
+    {
+      "quote": "d",
+      "author": "dean",
+      "id": 49
+    },
+    {
+      "quote": "d",
+      "author": "dean",
+      "id": 50
+    },
+    {
+      "quote": "j",
+      "author": "olo",
+      "id": 51
+    },
+    {
+      "quote": "f",
+      "author": "dodo bird",
+      "id": 52
     }
   ],
-  "likes": [
-    {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
-      "quoteId": 10,
-      "id": 2,
-      "createdAt": 1558524358
-    }
-  ]
+  "likes": []
 }
